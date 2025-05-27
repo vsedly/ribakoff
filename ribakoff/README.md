@@ -21,7 +21,7 @@ C#
 ## Задание 2:  
 Модификаторы доступа в C#  
 Ссылка на задание:  
-[![📘 Модификаторы доступа в C#](https://img.shields.io/badge/📘_Модификаторы_доступа_в_C%23-4285F4?style=for-the-badge&logo=book&logoColor=white)]()
+[![📘 Модификаторы доступа в C#](https://img.shields.io/badge/📘_Модификаторы_доступа_в_C%23-4285F4?style=for-the-badge&logo=book&logoColor=white)](https://github.com/vsedly/ribakoff/tree/main/ribakoff/%D0%9B%D0%B5%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%9C%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0%20%D0%B2%20C%23)
 
 ## Задание 3:  
 Задачи с созданием классов (MathUtils, Counter, StringUtils, Circle)  
