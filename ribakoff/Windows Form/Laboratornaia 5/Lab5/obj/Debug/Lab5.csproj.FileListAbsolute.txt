@@ -1,0 +1,10 @@
+C:\Users\EGLAD228\Desktop\123123\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\EGLAD228\Desktop\123123\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\EGLAD228\Desktop\123123\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\EGLAD228\Desktop\123123\Lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Users\EGLAD228\Desktop\123123\Lab5\Lab5\obj\Debug\Lab5.csproj.ResolveComReference.cache
+C:\Users\EGLAD228\Desktop\123123\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\EGLAD228\Desktop\123123\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Users\EGLAD228\Desktop\123123\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\EGLAD228\Desktop\123123\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\EGLAD228\Desktop\123123\Lab5\Lab5\obj\Debug\Lab5.pdb

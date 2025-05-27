@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EGLAD228\\Desktop\\123123\\Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11E796C9-345F-4C29-B442-A8D2C723D6B6}|Lab5\\Lab5.csproj|c:\\users\\eglad228\\desktop\\123123\\lab5\\lab5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E796C9-345F-4C29-B442-A8D2C723D6B6}|Lab5\\Lab5.csproj|solutionrelative:lab5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E796C9-345F-4C29-B442-A8D2C723D6B6}|Lab5\\Lab5.csproj|c:\\users\\eglad228\\desktop\\123123\\lab5\\lab5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E796C9-345F-4C29-B442-A8D2C723D6B6}|Lab5\\Lab5.csproj|solutionrelative:lab5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E796C9-345F-4C29-B442-A8D2C723D6B6}|Lab5\\Lab5.csproj|c:\\users\\eglad228\\desktop\\123123\\lab5\\lab5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11E796C9-345F-4C29-B442-A8D2C723D6B6}|Lab5\\Lab5.csproj|solutionrelative:lab5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\EGLAD228\\Desktop\\123123\\Lab5\\Lab5\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lab5\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\EGLAD228\\Desktop\\123123\\Lab5\\Lab5\\Form1.Designer.cs",
+              "RelativeToolTip": "Lab5\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:09:40.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\EGLAD228\\Desktop\\123123\\Lab5\\Lab5\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab5\\Form1.cs",
+              "ToolTip": "C:\\Users\\EGLAD228\\Desktop\\123123\\Lab5\\Lab5\\Form1.cs",
+              "RelativeToolTip": "Lab5\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:09:42.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\EGLAD228\\Desktop\\123123\\Lab5\\Lab5\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab5\\Form1.cs",
+              "ToolTip": "C:\\Users\\EGLAD228\\Desktop\\123123\\Lab5\\Lab5\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Lab5\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T22:08:46.964Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
