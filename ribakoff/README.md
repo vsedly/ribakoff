@@ -26,7 +26,7 @@ C#
 ## Задание 3:  
 Задачи с созданием классов (MathUtils, Counter, StringUtils, Circle)  
 Ссылка на задание:  
-[![📚 Документация раздела](https://img.shields.io/badge/📚_Задачи-6A5ACD?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/vsedly/ribakoff/tree/main/ribakoff/ООП/Практическая%20работа%201%20UML)
+[![📚 Документация раздела](https://img.shields.io/badge/📚_Задачи-6A5ACD?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/vsedly/ribakoff/tree/main/ribakoff/%D0%9B%D0%B5%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D1%81%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2(MathUtils%2C%20Counter%2C%20StringUtils%2C%20Circle))
 
 ## Задание 4:  
 Практическая работа 1 (UML)  
