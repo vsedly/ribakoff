@@ -56,4 +56,4 @@ C#
 ## Задание 9:  
 Реализация лабораторных работ по программированию  
 Ссылка на задания:  
-[![📘 Документация лабораторных работ](https://img.shields.io/badge/📘_Лабораторные_работы-6A5ACD?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Ramazanova_D_D_labs/README.md)
+[![📘 Документация лабораторных работ](https://img.shields.io/badge/📘_Лабораторные_работы-6A5ACD?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/vsedly/ribakoff/tree/main/ribakoff/Windows%20Form)
