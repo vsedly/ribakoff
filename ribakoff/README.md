@@ -51,7 +51,7 @@ C#
 ## Задание 8:  
 Консольный проводник файловой системы  
 Ссылка на задание:  
-[![Документация](https://img.shields.io/badge/📚_Консольный_проводник-6A5ACD?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/wienwe/DyadyaRyuba/blob/main/HomeworkForRyubakov/Консольный%20проводник%20файловой%20системы/README.md)
+[![Документация](https://img.shields.io/badge/📚_Консольный_проводник-6A5ACD?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/vsedly/ribakoff/tree/main/ribakoff/%D0%9E%D0%9E%D0%9F/%D0%9A%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%20%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B)
 
 ## Задание 9:  
 Реализация лабораторных работ по программированию  
