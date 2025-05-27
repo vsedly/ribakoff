@@ -28,7 +28,7 @@
 
 ## 🔗 Полезные ссылки
 
-[![📚 Домашние задания ИПО-31-22](https://img.shields.io/badge/📚_Домашние_задания-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vsedly/ribakoff/blob/main/ribakoff/README.md)
+[![📚 Домашние задания ИПО-31-22](https://img.shields.io/badge/📚__задания-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vsedly/ribakoff/blob/main/ribakoff/README.md)
 
 ---
 
